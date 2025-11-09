@@ -50,8 +50,8 @@ I enjoy cleaning, analyzing, and visualizing data to help drive better decisions
 
 ## 📫 Contact
 
-📧 Email: **your.email@example.com**  
-🔗 LinkedIn: [linkedin.com/in/yourname](#)  
+📧 Email: **chrisanto797@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/ChrisantoOngangi](#)  
 🐙 GitHub: [github.com/ChrisantoOngangi](https://github.com/ChrisantoOngangi)
 
 ---
