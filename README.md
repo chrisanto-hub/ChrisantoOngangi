@@ -11,6 +11,6 @@ Python (Pandas, NumPy) | Power BI | Excel | SQL | Visualization
 - [Sales Dashboard](./Sales-Dashboard)
 - [Excel Data Insights](./Excel-Data-Insights)
 
-## 📫 Contact
-📧 your.email@example.com  
+## 📫 +254-740266652
+📧 chrisanto797@gmail.com  
 🔗 [LinkedIn](#) | [GitHub](https://github.com/ChrisantoOngangi)
