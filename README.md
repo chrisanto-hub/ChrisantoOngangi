@@ -6,7 +6,7 @@ Data Analytics Portfolio | NexGEN Analytics
 Founder of **NexGEN Analytics**  
 Data Analyst specializing in business and e-commerce analytics.
 
-🔗 Portfolio: https://your-notion-link-here
+🔗 Portfolio: https://coffee-popcorn-bac.notion.site/NexGEN-Analytics-Data-Analytics-Portfolio-2ed9ca34981e80f2b295c357ff133f1b
 
 ### Skills
 - Python (Pandas, NumPy)
