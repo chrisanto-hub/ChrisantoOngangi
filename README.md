@@ -59,7 +59,7 @@ End-to-end analytics solution using PostgreSQL & Power BI.
 ✔ Identified revenue drivers & margin risks  
 
 🔗 Project Repository:  
-https://github.com/yourusername/retail-sales-kpi-analysis
+https://github.com/chrisanto-hub/retail-sales-kpi-analysis
 
 ---
 
@@ -75,11 +75,11 @@ https://github.com/yourusername/retail-sales-kpi-analysis
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisanto-hub&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisanto-hub&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -95,5 +95,5 @@ https://github.com/yourusername/retail-sales-kpi-analysis
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/your-link  
+LinkedIn: www.linkedin.com/in/chrisanto-ongangi-066a20252 
 Portfolio: Coming Soon
