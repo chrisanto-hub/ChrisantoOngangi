@@ -1,18 +1,99 @@
-# ChrisantoOngangi
-Data Analytics Portfolio | NexGEN Analytics
+<!-- Animated Header -->
+<h1 align="center">Hi, I'm Chrisanto Ongangi 👋</h1>
+<h3 align="center">Data Analyst | SQL • Python • Power BI</h3>
 
-# 👋 Hi, I’m Chrisanto Ongangi
+<p align="center">
+  Transforming data into business intelligence.
+</p>
 
-Founder of **NexGEN Analytics**  
-Data Analyst specializing in business and e-commerce analytics.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Raw+Data+Into+Insights;Building+End-to-End+Analytics+Projects" />
+</p>
 
-🔗 Portfolio: https://coffee-popcorn-bac.notion.site/NexGEN-Analytics-Data-Analytics-Portfolio-2ed9ca34981e80f2b295c357ff133f1b
+---
 
-### Skills
-- Python (Pandas, NumPy)
-- SQL
-- Power BI
-- Data Visualization & EDA
+## 🚀 About Me
 
-### Featured Work
-- Amazon Product Pricing & Ratings Analysis
+I am a results-driven Data Analyst focused on designing end-to-end analytics solutions — from database modeling to executive dashboards.
+
+I combine **SQL, Python, and Power BI** to uncover trends, optimize performance, and support data-driven decision-making.
+
+---
+
+## 🛠 Tech Stack
+
+### 📊 Data Analysis & BI
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,pandas,numpy" />
+</p>
+
+### 📈 Visualization & Reporting
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,excel" />
+</p>
+
+---
+
+## 📌 Core Skills
+
+- SQL (Joins, CTEs, Window Functions)
+- Data Modeling
+- KPI Development
+- Time Intelligence (YTD, YoY)
+- Dashboard Design
+- Business Performance Analysis
+- Insight Storytelling
+
+---
+
+## 📊 Featured Project
+
+### Retail Sales KPI Analysis
+
+End-to-end analytics solution using PostgreSQL & Power BI.
+
+✔ Built SQL-based KPI engine  
+✔ Designed Date Table for time intelligence  
+✔ Implemented dynamic YoY KPI indicators  
+✔ Created executive interactive dashboard  
+✔ Identified revenue drivers & margin risks  
+
+🔗 Project Repository:  
+https://github.com/yourusername/retail-sales-kpi-analysis
+
+---
+
+## 📚 Currently Learning
+
+- Advanced DAX Optimization
+- Data Engineering Fundamentals
+- Cloud Data Platforms
+- API Data Integration
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Build 5 Advanced Analytics Projects
+- Land Remote Data Analyst Role
+- Contribute to Open Data Projects
+- Strengthen Data Storytelling
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/your-link  
+Portfolio: Coming Soon
