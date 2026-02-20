@@ -74,8 +74,6 @@ https://github.com/chrisanto-hub/retail-sales-kpi-analysis
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chrisanto-hub&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
