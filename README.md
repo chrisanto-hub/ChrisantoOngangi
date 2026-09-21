@@ -228,4 +228,87 @@ Looking for help with your data?
 | Statistical Analysis | From **$50** |
 | Custom Data Solutions | **Custom Quote** |
 
-> Prices are starting prices for standard projects. Final pricing depends on project scope, complexity, data volume
+> Prices are starting prices for standard projects. Final pricing depends on project scope, complexity, data volume, deliverables, and timeline.
+
+### 📩 Work With FLOCHAMO
+
+If you have a dataset, reporting problem, dashboard requirement, or analytics project, feel free to get in touch.
+
+---
+
+# 🎓 Education
+
+**BSc. Applied Statistics with IT**
+
+Focus areas include:
+
+- Statistics
+- Data Analysis
+- Information Technology
+- Business Analytics
+- SQL
+- Programming
+- Data Visualization
+
+---
+
+# 📚 Currently Developing
+
+I'm continuously strengthening my skills in:
+
+- Advanced SQL
+- Python for Data Analytics
+- Power BI & DAX
+- Statistical Modeling
+- Data Engineering Fundamentals
+- Business Intelligence
+- Data Storytelling
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chrisanto-hub&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chrisanto-hub&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to:
+
+- Data Analyst opportunities
+- Business Analytics projects
+- Freelance data projects
+- Dashboard development
+- SQL & data analysis work
+- Data-related collaborations
+
+### 🔗 LinkedIn
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/chrisanto-ongangi-066a20252)
+
+### 🌐 Portfolio
+
+[View the FLOCHAMO Portfolio](#)
+
+### 💼 FLOCHAMO
+
+**Data • Analytics • Technology**
+
+**Turning Data Into Decisions.**
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting my GitHub profile.</strong>
+</p>
+
+<p align="center">
+  Let's turn data into something useful. 🚀
+</p>
