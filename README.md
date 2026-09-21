@@ -138,7 +138,7 @@ Analysis of customer behavior and churn patterns to identify factors associated 
 - Identified key patterns and findings
 - Developed business recommendations
 
-🔗 **[View Project Repository](https://github.com/chrisanto-hub)**
+🔗 **[View Project Repository](https://github.com/chrisanto-hub/customer-churn-analysis)**
 
 ---
 
